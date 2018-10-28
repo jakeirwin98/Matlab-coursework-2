@@ -1,5 +1,6 @@
 %Jake Irwin eayjni@nottingham.ac.uk
 %Q8
+%This code will generate snow falling and melting onto a christmas tree, as part of a first year university project
 
 clear
 a=zeros(100,100);
